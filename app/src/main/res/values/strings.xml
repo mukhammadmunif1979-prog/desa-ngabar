@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Galeri Desa</string>
+    <string name="dashboard_subtitle">Arsip Foto Wilayah &amp; Bulanan</string>
+    <string name="search_placeholder">Cari nama desa atau folder…</string>
+    <string name="quick_input_photo">Input Foto Cepat</string>
+    <string name="add_village_folder">Tambah Desa</string>
+    <string name="folder_wilayah_title">Folder Wilayah Desa</string>
+    <string name="pick_from_gallery">Pilih Galeri</string>
+    <string name="take_camera_photo">Ambil Kamera</string>
+    <string name="camera_permission_rationale">Izin kamera diperlukan untuk mengambil foto kegiatan desa secara langsung.</string>
+    <string name="save_to_folder">Simpan ke Folder</string>
+    <string name="cancel">Batal</string>
+    <string name="delete">Hapus</string>
+    <string name="share">Bagikan</string>
+    <string name="move_folder">Pindah Folder</string>
+    <string name="edit_caption">Ubah Keterangan</string>
+    <string name="empty_month_title">Belum ada foto di bulan ini</string>
+    <string name="empty_month_desc">Pilih foto dari galeri atau ambil foto langsung dengan kamera untuk menyimpannya di folder bulan ini.</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Galeri Desa",
+  "description": "Aplikasi input dan arsip foto bulanan Januari hingga Desember di dalam folder masing-masing wilayah desa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
